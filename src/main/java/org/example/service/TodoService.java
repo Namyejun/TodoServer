@@ -3,7 +3,6 @@ package org.example.service;
 import lombok.AllArgsConstructor;
 import org.example.model.TodoEntity;
 import org.example.model.TodoRequest;
-import org.example.model.TodoResponse;
 import org.example.repository.TodoRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
